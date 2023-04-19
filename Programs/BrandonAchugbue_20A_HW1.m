@@ -1,5 +1,5 @@
 %% 1
-
+ 
 % Brandon Achugbue
 % 4/1/2022
 % this script records the heart rates of 12 people on two separate days and
