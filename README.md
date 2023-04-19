@@ -1,1 +1,1 @@
-# VibeTheory.github.io
+# Intro to MATLAB: Programming for Behavioral Sciences
